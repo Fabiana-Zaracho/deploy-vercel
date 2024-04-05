@@ -23,7 +23,7 @@ pyparsing==2.4.7
 python-apt==2.4.0+ubuntu3
 python-dotenv==1.0.1
 PyYAML==5.4.1
-SecretStorage==3.3.1
+SecretStorage==3.3.
 six==1.16.0
 sqlparse==0.4.4
 systemd-python==234
